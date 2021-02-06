@@ -1,5 +1,5 @@
 #+TITLE: Hi! 🌊
 
 About me:
-- I’m a software engineer working with the mobile platform team at [[https://github.com/browserstack][@BrowserStack]]. 🔭
-- Currently living in Dublin, Ireland. 🏡
+- I’m a software engineer currently working with the mobile platform team at [[https://github.com/browserstack][@BrowserStack]]. 🔭
+- Originally from Dublin, Ireland. 🏡
