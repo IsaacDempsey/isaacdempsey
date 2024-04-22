@@ -1,5 +1,6 @@
 #+TITLE: Hi! 🌊
 
 About me:
-- I’m a software engineer currently working with the mobile infrastructure team [[https://github.com/browserstack][@BrowserStack]]. 🔭
+- I'm a software engineer currently working with the development team [[https://www.diona.com/][@Diona]]
+- I previously worked on the mobile infrastructure team [[https://github.com/browserstack][@BrowserStack]]. 🔭
 - Originally from Dublin, Ireland. 🏡
