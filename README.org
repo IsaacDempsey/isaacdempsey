@@ -4,3 +4,4 @@ About me:
 - I'm a software engineer currently working with the development team at [[https://www.diona.com/][Diona]]. 🔭
 - Between 2019 and 2023 I worked at [[https://github.com/browserstack][BrowserStack]] on the mobile infrastructure team.
 - Originally from Dublin, Ireland. 🏡
+- Check out my website for more information: https://www.isaacdempsey.eu/
